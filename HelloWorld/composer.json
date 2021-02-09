@@ -1,0 +1,12 @@
+{
+    "name": "trishlasaxena/hello-world",
+    "description": "first package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Trishla Saxena",
+            "email": "trishlasaxena@ymail.com"
+        }
+    ],
+    "require": {}
+}
